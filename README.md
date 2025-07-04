@@ -8,7 +8,6 @@ A comprehensive Hotel Management System project utilizing Oracle PL/SQL. This pr
 - [Features](#features)
 - [Database Structure](#database-structure)
 - [How to Run](#how-to-run)
-- [Screenshots & Outputs](#screenshots--outputs)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,11 +48,6 @@ This Hotel Management System is designed to automate and streamline operations s
 
 3. **Test the functionalities:**
     - Execute the sample PL/SQL scripts or use test cases provided to demonstrate system operations.
-
-## Screenshots & Outputs
-
-Include sample screenshots or output snippets here to illustrate booking, billing, or any report generation.  
-*(You can add images or code output blocks as needed.)*
 
 ## Contributing
 
